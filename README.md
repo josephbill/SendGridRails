@@ -5,20 +5,20 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:
 3.1.2.
-* System dependencies
-- check gemfile 
-- demo addons 
-- sendgrid-ruby : for mails 
+* System dependencies:
+check gemfile 
+demo addons 
+sendgrid-ruby : for mails 
 
-* Configuration
+* Configuration:
 bundle install
 
-* Database creation
+* Database creation:
 rails db:migrate
 
-* Database initialization
+* Database initialization:
 rails db:migrate
 
 ### Instructions 
